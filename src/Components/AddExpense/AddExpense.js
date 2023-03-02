@@ -79,6 +79,7 @@ const AddExpense = () => {
               name="expenseType"
               value={formData.expenseType}
               onChange={handleChange}
+              placeholder="Expense Type"
             >
               <option value="EXPENSE">Expense</option>
               <option value="INCOME">Income</option>
