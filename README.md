@@ -1,3 +1,5 @@
+Deployed website link: https://serene-mandazi-ec6092.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
